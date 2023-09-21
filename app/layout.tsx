@@ -1,6 +1,8 @@
 import 'tailwindcss/tailwind.css'
 
+import { Analytics } from '@vercel/analytics/react';
 import { IBM_Plex_Mono, Inter, PT_Serif } from 'next/font/google'
+
 
 const serif = PT_Serif({
   variable: '--font-serif',
@@ -31,6 +33,7 @@ export default async function RootLayout({
       className={`${mono.variable} ${sans.variable} ${serif.variable}`}
     >
       <body>{children}</body>
+      <Analytics />
     </html>
   )
 }
