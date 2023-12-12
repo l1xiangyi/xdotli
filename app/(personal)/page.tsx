@@ -1,8 +1,9 @@
 import { toPlainText } from '@portabletext/react'
 import { HomePage } from 'components/pages/home/HomePage'
-import HomePagePreview from 'components/pages/home/HomePagePreview'
+import PagePreview from 'components/pages/page/PagePreview'
+// import HomePagePreview from 'components/pages/home/HomePagePreview'
 import { getHomePage, getSettings } from 'lib/sanity.fetch'
-import { homePageQuery } from 'lib/sanity.queries'
+import { homePageQuery, pagesBySlugQuery } from 'lib/sanity.queries'
 import { defineMetadata } from 'lib/utils.metadata'
 import { Metadata } from 'next'
 import { draftMode } from 'next/headers'
@@ -42,9 +43,9 @@ export default async function IndexRoute() {
   return (
     <LiveQuery
       enabled={draftMode().isEnabled}
-      query={homePageQuery}
+      query={pagesBySlugQuery}
       initialData={data}
-      as={HomePagePreview}
+      as={PagePreview}
     >
       <HomePage data={data} />
     </LiveQuery>
