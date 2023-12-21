@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Xiangyi</h1>
 <p align="left">
 </p>
-Building a startup now. 
+Buildling @imaginix-inc. 
 
 ## About me
+- **Imaginix Inc** (2023.12 - present): leading tech team. 
 - **venice/openSDKs** (2023.11 - present): making SDKs easier for TypeScript devs. 
 - **Dolby Laboratories** (2023.2-2023.4): Windows PC Development and Full-stack Development Intern
 - **Red Hat** (2022.5-2022.11): OpenShift Cloud-Native, Frontend, And Quality Engineering Intern
