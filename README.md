@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xiangyi</h1>
 <p align="left">
 </p>
-Buildling [imaginix-inc](https://github.com/imaginix-inc). 
+Buildling [imaginix-inc](https://github.com/imaginix-inc) . 
 
 ## About me
 - **Imaginix Inc** (2023.12 - present): leading tech team. 
