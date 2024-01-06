@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xiangyi</h1>
 <p align="left">
 </p>
-Buildling [imaginix-inc](https://github.com/imaginix-inc) . 
+Buildling <a href="https://github.com/imaginix-inc">@imaginix-inc</a>.
 
 ## About me
 - **Imaginix Inc** (2023.12 - present): leading tech team. 
@@ -10,5 +10,6 @@ Buildling [imaginix-inc](https://github.com/imaginix-inc) .
 - **Red Hat** (2022.5-2022.11): OpenShift Cloud-Native, Frontend, And Quality Engineering Intern
 - **San Jose State University** (2023.8-2025.5, expected): Computer Science major, with a Master of Science
 - **The Chinese University of Hong Kong, Shenzhen** (2019.8-2023.5): Computer Science & Engineer major, with a Bachlor of Engineering.
+
 
 https://xiangyi.li/
