@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xiangyi</h1>
 <p align="left">
 </p>
-Buildling <a href="https://github.com/imaginix-inc">@imaginix-inc</a>.
+Incoming software engineer intern <a href="https://github.com/teslamotors">@teslamotors</a>.
 
 ## About me
 - **Imaginix Inc** (2023.12 - present): leading the tech team. 
