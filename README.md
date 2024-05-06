@@ -4,8 +4,9 @@
 Incoming software engineer intern <a href="https://github.com/teslamotors">@teslamotors</a>.
 
 ## About me
-- **Imaginix Inc** (2023.12 - present): leading the tech team. 
-- **venice/openSDKs** (2023.11 - present): making SDKs easier for TypeScript devs. 
+- **Tesla** (2024.5 - Present): Service Platform full-stack dev
+- **Imaginix Inc** (2023.12 - 2024.2): leading the tech team. 
+- **venice/openSDKs** (2023.11 - 2023.11): making SDKs easier for TypeScript devs. 
 - **Dolby Laboratories** (2023.2-2023.4):  full-stack dev helping mint color profile files to >500k laptops annually
 - **Red Hat** (2022.5-2022.11): Full-stack and QA engineer for the OpenShift platform
 - **San Jose State University** (2023.8-2025.5, expected): MS in CS
