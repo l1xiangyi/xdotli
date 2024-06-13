@@ -1,16 +1,13 @@
-<h1 align="center">Hi 👋, I'm Xiangyi</h1>
-<p align="left">
-</p>
-software engineer intern <a href="https://github.com/teslamotors">@teslamotors</a>.
+currently building a few side projs with friends... 
 
 ## About me
-- **Tesla** (2024.5 - Present): building something new at Tesla with Angular and .NET
-- **Imaginix Inc** (2023.12 - 2024.2): led the tech team. Built an AI anime voice chat app with interative avatars. 10k monthly downloads. 
-- **venice/openSDKs** (2023.11 - 2023.11): making SDKs easier for TypeScript devs. 
-- **Dolby Laboratories** (2023.2-2023.4):  full-stack dev helping mint color profile files to >500k laptops annually
-- **Red Hat** (2022.5-2022.11): Full-stack and QA engineer for the OpenShift platform
-- **San Jose State University** (2023.8-2025.5, expected): MS in CS
-- **The Chinese University of Hong Kong, Shenzhen** (2019.8-2023.5): BEng in CS
+**Tesla**: Building a new system and modernizing some legacy apps with angular and .net  
+**Kimi.ai**: AI voice chat app with interactive avatars. 20k users - Link here [App Store](https://apps.apple.com/us/app/kimi-ai-game-with-ai/id6478798034)  
+**Venice**: Open-source contribution to better sdks for TypeScript devs.  
+**Dolby**: Dolby Vision support portal with .net. give >500k laptops better colors annually.  
+**Red Hat**: OpenShift web portal. React + Golang + Cypress.   
+**Renter**: On-campus second hand trading platform. next.js + mysql. 2k active users before shut down. 
+## School 
+CS major at SJSU and CUHK. 
 
-
-https://xiangyi.li/
+more => https://www.xiangyi.li/
