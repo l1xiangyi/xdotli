@@ -1,4 +1,4 @@
-currently building a few side projs with friends... 
+currently building a figma for toy designers
 
 ## About me
 **Tesla**: Building a new system and modernizing some legacy apps with angular and .net  
